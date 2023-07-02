@@ -1,0 +1,3 @@
+[submodule "hello_hash_table"]
+	path = hello_hash_table
+	url = git@github.com:hatilima/hello_hash_table.git
